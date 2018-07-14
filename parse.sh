@@ -1,0 +1,1 @@
+scrapy runspider rtvslo.py -o comments/rtvslo_$(date -d "today" +"%Y%m%d%H%M").json
